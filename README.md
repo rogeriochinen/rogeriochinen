@@ -1,8 +1,10 @@
 # Bem vindo(a) ao meu GitHub!
 
-Meu nome é Rogério Chinen.
-Sou médico, especializado em Nefrologia / Transplante Renal.
-Um apaixonado por cinema, tecnologia, inovação e finanças.
+![Fundo GitHub - lowQ](https://user-images.githubusercontent.com/65172345/201193201-e24cacaa-b222-42d6-94c8-3baf9ed42fbc.png)
+
+Meu nome é Rogério Chinen.   
+Sou médico, especializado em Nefrologia / Transplante Renal.  
+Um apaixonado por cinema, tecnologia, inovação e finanças.  
 Atualmente me dedicando em desenvolver habilidades em Data Science, Artificial Intelligence and Machine Learning.
 
 ## Projetos
