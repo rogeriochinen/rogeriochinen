@@ -13,6 +13,7 @@ Atualmente me dedicando em desenvolver habilidades em Data Science, Artificial I
 - idealizador do Canal do You Tube Espiral da Prosperidade - canal que discute sobre finanças e investimentos
 - idealizador do Blog Espiral da Saúde - fonte de notícias e tecnologias que demonstram a inovação na área de saúde
 - idealizador do Esphyrall - reunião das três espirais (Valor, Prosperidade e Saúde) em um único hub.
+- idealizador da Newsletter Mundo MedTech - a espiral de inovações médicas ao seu alcance
 
 ## Cursos desenvolvidos
 - Investir em Ações é Mais Fácil do que Imagina - curso de investimento em ações para profissionais liberais.
@@ -29,3 +30,4 @@ Atualmente me dedicando em desenvolver habilidades em Data Science, Artificial I
 - GitHub: https://github.com/rogeriochinen/
 - Instagram: https://www.instagram.com/esphyrall/
 - Facebook: https://www.facebook.com/esphyrall
+- Newsletter: https://mundomedtech.beehiiv.com/
